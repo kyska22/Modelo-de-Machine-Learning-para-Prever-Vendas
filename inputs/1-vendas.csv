@@ -1,0 +1,35 @@
+Data,Mes,Titulo,Assunto,Vendas
+2023-01-01,1,"Hábitos Atômicos","autoajuda",120
+2023-01-01,1,"Azure Fundamentals","cloud",85
+2023-01-01,1,"Python para Iniciantes","programação",150
+2023-02-01,2,"Pai Rico, Pai Pobre","finanças",200
+2023-02-01,2,"Introdução à IA","IA",90
+2023-03-01,3,"O Poder do Agora","autoajuda",110
+2023-03-01,3,"Investimentos Inteligentes","finanças",180
+2023-04-01,4,"Aprendendo Django","programação",95
+2023-04-01,4,"Machine Learning Básico","IA",120
+2023-05-01,5,"O Milionário Automático","finanças",160
+2023-05-01,5,"DevOps com Azure","cloud",75
+2023-06-01,6,"O Poder do Hábito","autoajuda",130
+2023-06-01,6,"Data Science com Python","programação",110
+2023-07-01,7,"Mindset","autoajuda",140
+2023-07-01,7,"Deep Learning","IA",85
+2023-08-01,8,"Os Segredos da Mente Milionária","finanças",190
+2023-08-01,8,"Azure AI Services","cloud",65
+2023-09-01,9,"Python Avançado","programação",100
+2023-09-01,9,"O Homem Mais Rico da Babilônia","finanças",210
+2023-10-01,10,"Como Fazer Amigos e Influenciar Pessoas","autoajuda",180
+2023-10-01,10,"Inteligência Artificial Aplicada","IA",95
+2023-11-01,11,"Cloud Computing","cloud",80
+2023-11-01,11,"Pandas para Análise de Dados","programação",120
+2023-12-01,12,"O Alquimista","autoajuda",300
+2023-12-01,12,"Presentes Financeiros para seu Filho","finanças",350
+2023-12-01,12,"Azure Machine Learning","cloud",120
+2023-12-01,12,"Aprendizado Profundo","IA",180
+2023-12-01,12,"Flask Web Development","programação",150
+2024-01-01,1,"O Poder da Ação","autoajuda",280
+2024-01-01,1,"Os Axiomas de Zurique","finanças",320
+2024-01-01,1,"TensorFlow para Iniciantes","IA",150
+2024-01-01,1,"Docker para Desenvolvedores","programação",130
+2024-02-01,2,"Rápido e Devagar","autoajuda",140
+2024-02-01,2,"Os Segredos do ChatGPT","IA",110
